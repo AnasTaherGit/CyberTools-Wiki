@@ -4,7 +4,7 @@
 
 - [Cybersecurity Wiki](#cybersecurity-wiki)
   - [Table of contents](#table-of-contents)
-  - [Pentest Tools](#pentest-tools)
+  - [Penetration Testing](#penetration-testing)
     - [Informations Gathering](#informations-gathering)
       - [Gobuster - Brut force Web Enumeration tool](#gobuster---brut-force-web-enumeration-tool)
       - [Nmap - Network Scanning and Host Detection](#nmap---network-scanning-and-host-detection)
@@ -13,7 +13,7 @@
     - [Analyzing pdf files Metadata](#analyzing-pdf-files-metadata)
     - [Analyzing images metadata](#analyzing-images-metadata)
 
-## Pentest Tools
+## Penetration Testing
 
 ### Informations Gathering
 
