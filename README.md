@@ -1,8 +1,8 @@
-# Cybersecurity Tools
+# Cybersecurity Wiki
 
 ## Table of contents
 
-- [Cybersecurity Tools](#cybersecurity-tools)
+- [Cybersecurity Wiki](#cybersecurity-wiki)
   - [Table of contents](#table-of-contents)
   - [Pentest Tools](#pentest-tools)
     - [Informations Gathering](#informations-gathering)
